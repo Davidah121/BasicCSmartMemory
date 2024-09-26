@@ -29,4 +29,4 @@ Note that this isn't designed to be robust or anything but just an attempt at cr
 
 Also note the quotations around "smart" since it doesn't do everything you may expect smart memory to do such as freeing memory when no longer in use automatically or preventing deletion when memory is currently in use. It just allows you to figure out if it has been deleted before using it.
 In order to create a system like that, you would need an object system similar to what C++ / Java / C# offer however it doesn't have to be as robust.
-A system like [this](https://github.com/Davidah121/BasicCObjects) would make this possible and fix all of the other issues but requires additional compiler options which could potentially cause issues with other tools.
+A system like [this](https://github.com/Davidah121/basic-c-objects) would make this possible and fix all of the other issues but requires additional compiler options which could potentially cause issues with other tools.
