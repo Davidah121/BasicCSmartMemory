@@ -1,4 +1,4 @@
-# BasicCSmartMemory
+# basic-c-smart-memory
 A basic approach to creating "smart" memory in C
 
 # Outline
